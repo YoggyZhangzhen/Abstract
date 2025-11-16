@@ -1,0 +1,104 @@
+[2022-02-26 11:33:41 +0800] [5056] [INFO] Starting gunicorn 19.6.0
+[2022-02-26 11:33:41 +0800] [5056] [INFO] Listening at: http://0.0.0.0:5000 (5056)
+[2022-02-26 11:33:41 +0800] [5056] [INFO] Using worker: sync
+[2022-02-26 11:33:41 +0800] [5059] [INFO] Booting worker with pid: 5059
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.696 seconds.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 11:34:57 +0800] [5078] [INFO] Starting gunicorn 19.6.0
+[2022-02-26 11:34:57 +0800] [5078] [INFO] Listening at: http://0.0.0.0:5001 (5078)
+[2022-02-26 11:34:57 +0800] [5078] [INFO] Using worker: sync
+[2022-02-26 11:34:57 +0800] [5081] [INFO] Booting worker with pid: 5081
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.712 seconds.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 13:02:55 +0800] [5078] [CRITICAL] WORKER TIMEOUT (pid:5081)
+[2022-02-26 13:02:55 +0800] [5056] [CRITICAL] WORKER TIMEOUT (pid:5059)
+[2022-02-26 13:02:55 +0800] [5081] [INFO] Worker exiting (pid: 5081)
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 13:02:56 +0800] [5059] [INFO] Worker exiting (pid: 5059)
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 13:02:56 +0800] [5709] [INFO] Booting worker with pid: 5709
+[2022-02-26 13:02:56 +0800] [5710] [INFO] Booting worker with pid: 5710
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.681 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.682 seconds.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 14:08:48 +0800] [5056] [CRITICAL] WORKER TIMEOUT (pid:5710)
+[2022-02-26 14:08:48 +0800] [5078] [CRITICAL] WORKER TIMEOUT (pid:5709)
+[2022-02-26 14:08:48 +0800] [5709] [INFO] Worker exiting (pid: 5709)
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 14:08:48 +0800] [5710] [INFO] Worker exiting (pid: 5710)
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 14:08:48 +0800] [6067] [INFO] Booting worker with pid: 6067
+[2022-02-26 14:08:48 +0800] [6068] [INFO] Booting worker with pid: 6068
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.753 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.755 seconds.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 16:22:19 +0800] [5078] [INFO] Handling signal: hup
+[2022-02-26 16:22:19 +0800] [5056] [INFO] Handling signal: hup
+[2022-02-26 16:22:19 +0800] [5056] [INFO] Hang up: Master
+[2022-02-26 16:22:19 +0800] [5078] [INFO] Hang up: Master
+[2022-02-26 16:22:19 +0800] [8628] [INFO] Booting worker with pid: 8628
+[2022-02-26 16:22:19 +0800] [8627] [INFO] Booting worker with pid: 8627
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.643 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.643 seconds.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 16:32:00 +0800] [5056] [CRITICAL] WORKER TIMEOUT (pid:8627)
+[2022-02-26 16:32:00 +0800] [5078] [CRITICAL] WORKER TIMEOUT (pid:8628)
+[2022-02-26 16:32:00 +0800] [8628] [INFO] Worker exiting (pid: 8628)
+[2022-02-26 16:32:00 +0800] [8627] [INFO] Worker exiting (pid: 8627)
+69999 pairs.
+预测类Predict实例化完毕...
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 16:32:00 +0800] [8697] [INFO] Booting worker with pid: 8697
+[2022-02-26 16:32:00 +0800] [8698] [INFO] Booting worker with pid: 8698
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model from cache /var/folders/xh/jmn_627d17x4f2vwfh79r85h0000gn/T/jieba.cache
+Loading model cost 0.795 seconds.
+Loading model cost 0.795 seconds.
+Prefix dict has been built successfully.
+Prefix dict has been built successfully.
+my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... my_path---> /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/src
+Reading dataset /Users/bombing/PycharmProjects/pythonProject3/text_summary/90_pgn_coverage_bm_server/data/train.txt... [2022-02-26 17:34:47 +0800] [8697] [INFO] Worker exiting (pid: 8697)
+[2022-02-26 17:34:47 +0800] [8698] [INFO] Worker exiting (pid: 8698)
+[2022-02-26 17:34:47 +0800] [5078] [INFO] Handling signal: term
+[2022-02-26 17:34:47 +0800] [5056] [INFO] Handling signal: term
+69999 pairs.
+预测类Predict实例化完毕...
+69999 pairs.
+预测类Predict实例化完毕...
+[2022-02-26 17:34:47 +0800] [5056] [INFO] Shutting down: Master
+[2022-02-26 17:34:47 +0800] [5078] [INFO] Shutting down: Master
